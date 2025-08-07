@@ -14,7 +14,7 @@ A simple and elegant weather app that fetches real-time weather data using the [
 ## 🖼️ Preview
 
 <!-- Replace this with your actual image path -->
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/image.png)
 
 ## 🔧 Tech Stack
 
